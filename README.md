@@ -1128,3 +1128,24 @@ If a bad case is marked *good* by *rater* → FN
 F means Rater verdict ≠ Reality
 T means Rater verdict = Reality
 
+
+
+
+
+
+
+
+
+
+
+
++-------------------+
+|     PASSWORD      |
++-------------------+
+| Title             |
+| Tag               |
+| Keyword           |
+| Pass              |
+| URL               |
+| Username / ID     |
++-------------------+
