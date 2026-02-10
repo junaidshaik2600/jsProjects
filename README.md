@@ -1059,3 +1059,72 @@ Test you with rapid-fire cases
 
 
 Just tell me 👍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is QA
+
+QA exists to protect team quality by detecting errors early, understanding why they happen, fixing the cause, and preventing them from happening again.
+What is quality 
+
+Quality = Right decision + consistency
+
+It's not about : 
+Speed
+Effort
+Hard work
+What's the purpose of QA Why does he exist : 
+Without QA:
+Errors repeat
+Clients lose trust
+Team performance drops
+Business is at risk
+How would you describe qa?
+
+Audit → Identify Error → Analyze Cause → Fix → Monitor → Prevent
+
+
+
+
+Or
+
+
+CHECK → FIND → UNDERSTAND → FIX → WATCH → PREVENT
+In Audit we review the rater
+
+Reviewer decisions
+Guidelines followed or not
+If a bad case is marked bad by both sides → TP
+If a good case is marked good by both sides  → TN
+If a good case is marked *bad* by *rater* → FP
+If a bad case is marked *good* by *rater* → FN
+F means Rater verdict ≠ Reality
+T means Rater verdict = Reality
+
