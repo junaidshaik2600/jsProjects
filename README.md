@@ -1138,14 +1138,3 @@ T means Rater verdict = Reality
 
 
 
-
-+-------------------+
-|     PASSWORD      |
-+-------------------+
-| Title             |
-| Tag               |
-| Keyword           |
-| Pass              |
-| URL               |
-| Username / ID     |
-+-------------------+
